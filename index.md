@@ -1,4 +1,4 @@
-# The Progress Journal
+# My Progress Journal
 
 ## Week 2 (Oct 10)
 
@@ -6,4 +6,4 @@
 
 ## Week 3 (Oct 29)
 
-+ [Here](files/ozgegenchw2.html) is my data-set analysis.
++ [Here](files/ozgegenchw2.html) is my data-set.
