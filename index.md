@@ -7,3 +7,7 @@
 ## Week 3 (Oct 29)
 
 + [Here](files/ozgegenchw2.html) is my data-set.
+
+## Week 6 (Dec 5, 2017)
+
++ [Esoph](files/Assignment_ESOPH.html) and Youth Survey data-set analyses.
