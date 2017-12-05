@@ -10,4 +10,4 @@
 
 ## Week 6 (Dec 5, 2017)
 
-+ [Esoph](files/Assignment_ESOPH.html) and Youth Survey(files/YoutheSurveyAssignment.html) data-set analyses.
++ [Esoph](files/Assignment_ESOPH.html) and [Youth Survey](files/YoutheSurveyAssignment.html) data-set analyses.
