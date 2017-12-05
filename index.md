@@ -7,6 +7,8 @@
 ## Week 3 (Oct 29)
 
 + [Here](files/ozgegenchw2.html) is my data-set.
++ Udacity Progress Update:  I completed "Explore One Variable" Udacity Lesson
++ My project group name is [Error](https://mef-bda503.github.io/gpj-error/)
 
 ## Week 6 (Dec 5, 2017)
 
